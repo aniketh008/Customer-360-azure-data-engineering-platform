@@ -67,10 +67,6 @@ These views provided clean, business-ready data models for analysis.
 
 Connect with me on my profile below for more updates:
 
-LinkedIn: https://www.linkedin.com/in/harpalvaghela/
-
-Website: https://www.harpalvaghela.com
-
-Medium Blog: https://medium.com/@harpalvaghela
+LinkedIn: https://www.linkedin.com/in/aniketh8
 
 Thank you
